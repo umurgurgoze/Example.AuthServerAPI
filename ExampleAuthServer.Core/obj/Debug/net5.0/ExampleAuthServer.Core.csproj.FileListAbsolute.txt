@@ -1,0 +1,15 @@
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\ExampleAuthServer.Core\bin\Debug\net5.0\ExampleAuthServer.Core.deps.json
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\ExampleAuthServer.Core\bin\Debug\net5.0\ExampleAuthServer.Core.dll
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\ExampleAuthServer.Core\bin\Debug\net5.0\ref\ExampleAuthServer.Core.dll
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\ExampleAuthServer.Core\bin\Debug\net5.0\ExampleAuthServer.Core.pdb
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\ExampleAuthServer.Core\obj\Debug\net5.0\ExampleAuthServer.Core.csproj.AssemblyReference.cache
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\ExampleAuthServer.Core\obj\Debug\net5.0\ExampleAuthServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\ExampleAuthServer.Core\obj\Debug\net5.0\ExampleAuthServer.Core.AssemblyInfoInputs.cache
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\ExampleAuthServer.Core\obj\Debug\net5.0\ExampleAuthServer.Core.AssemblyInfo.cs
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\ExampleAuthServer.Core\obj\Debug\net5.0\ExampleAuthServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\ExampleAuthServer.Core\obj\Debug\net5.0\ExampleAuthServer.Core.dll
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\ExampleAuthServer.Core\obj\Debug\net5.0\ref\ExampleAuthServer.Core.dll
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\ExampleAuthServer.Core\obj\Debug\net5.0\ExampleAuthServer.Core.pdb
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\ExampleAuthServer.Core\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\ExampleAuthServer.Core\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\ExampleAuthServer.Core\obj\Debug\net5.0\ExampleAuthServer.Core.csproj.CopyComplete

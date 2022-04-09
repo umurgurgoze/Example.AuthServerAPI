@@ -1,0 +1,12 @@
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\SharedLibrary\bin\Debug\net5.0\SharedLibrary.deps.json
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\SharedLibrary\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\SharedLibrary\bin\Debug\net5.0\ref\SharedLibrary.dll
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\SharedLibrary\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.AssemblyInfo.cs
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.dll
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\SharedLibrary\obj\Debug\net5.0\ref\SharedLibrary.dll
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.pdb
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\SharedLibrary\obj\Debug\net5.0\SharedLibrary.csproj.AssemblyReference.cache
