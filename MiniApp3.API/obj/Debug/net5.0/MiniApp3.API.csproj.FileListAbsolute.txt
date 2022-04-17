@@ -28,3 +28,10 @@ C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\
 C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.genruntimeconfig.cache
 C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\MiniApp3.API\bin\Debug\net5.0\SharedLibrary.dll
 C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\MiniApp3.API\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\MiniApp3.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\MiniApp3.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\MiniApp3.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\MiniApp3.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\MiniApp3.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\MiniApp3.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\umurg\Desktop\Udemy Fatih Çakıroğlu\AuthServerJwt\ExampleAuthServer\MiniApp3.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
